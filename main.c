@@ -1,3 +1,4 @@
+/*commentaire*/
 #include <stdio.h>
 /*mon comm.*/
 
