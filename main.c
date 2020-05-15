@@ -1,4 +1,4 @@
-/*commentaire qui ne me plait pas*/
+/*commentaire qui ne me plait pas trop*/
 #include <stdio.h>
 /*mon comm.*/
 
